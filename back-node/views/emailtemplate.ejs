@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Password Reset</title>
+    <style>
+        /* Add your CSS code here */
+        /* For example: */
+        body {
+            background-color: #f2f2f2;
+        }
+        .container {
+            margin: 20px auto;
+            max-width: 600px;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            text-align: center;
+            color: #333333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+            color: #666666;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #6495ED;
+            color: #29c5f6;
+            text-align: center;
+            padding: 10px 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+        .btn:hover {
+            background-color: #1250cc;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Password Reset</h1>
+    <p>We received a request to reset your password. If you did not make this request, please ignore this email.</p>
+    <p>To reset your password, please click on the button below:</p>
+    <a href="http://localhost:3000/#/users/reset-password?resetToken=<%= resetToken %>" class="btn">Reset Password</a>
+    <p>If the button above doesn't work, you can also copy and paste the following URL into your browser:</p>
+    <p>http://localhost:3000/#/users/reset-password?resetToken=<%= resetToken %></p>
+    <p>If you have any questions or concerns, please contact us on dcdgraduationproject@gmail.com.</p>
+</div>
+</body>
+</html>
