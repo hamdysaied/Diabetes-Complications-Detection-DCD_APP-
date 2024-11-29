@@ -1,0 +1,6 @@
+diabetic retinopathy:
+
+https://www.kaggle.com/code/abdoalaaeldeen/diabetic?fbclid=IwAR2YhJiF0rMqoKvjLGK8j2-1AoTmbt4Qxr0vrFTTjlFLu3hvGBUi5q4eqj4
+
+diabetic foot ulcer:
+https://www.kaggle.com/code/abdoalaaeldeen/dfu-model-for-graduation-project?fbclid=IwAR3MHHWEkFF1m7w7TvPwNapCGGj3ZsUVxr9poOXu-ePfbz4EJLYi_2nwtEk
