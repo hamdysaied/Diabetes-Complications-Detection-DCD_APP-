@@ -1,5 +1,4 @@
-providingeasy,cheap, and fast tool to early detect thecomplications of diabetes: Diabeticretinopathy and foot ulcers diabetes and Patient guidance to protect them from these diseases and follow-up of theircases.
-
+Web Application using React Framework: Developed an efficient, cost-effective, and user-friendly tool to facilitate the early detection of diabetes complications, including diabetic retinopathy and foot ulcers. The application also provides patient guidance for disease prevention and follow-up of their medical cases.
 ---
 
 ### Steps to Set Up and Run the Project
