@@ -1,5 +1,4 @@
 providingeasy,cheap, and fast tool to early detect thecomplications of diabetes: Diabeticretinopathy and foot ulcers diabetes and Patient guidance to protect them from these diseases and follow-up of theircases.
-Here is a more professional and polished version of your instructions:
 
 ---
 
